@@ -1,6 +1,6 @@
 ### Hi there, I'm LWZ 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/lewizooo?color=1DA1F2&label=FOLLOW%20%40LEWIZOOO&logo=Twitter&style=for-the-badge)(https://twitter.com/lewizooo)
+![Twitter Follow](https://img.shields.io/twitter/follow/lewizooo?color=1DA1F2&label=FOLLOW%20%40LEWIZOOO&logo=Twitter&style=for-the-badge)](https://twitter.com/lewizooo)
 
 ## I'm a studient Developer !
 
