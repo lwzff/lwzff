@@ -14,7 +14,7 @@
 [<img align="left" alt="My twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="My youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="My twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="My website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/web.svg" />][website]
+[<img align="left" alt="My website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />][website]
 
 <br />
 
