@@ -8,7 +8,7 @@
 - 🔭 Currently working on Projet X, Roleplay Fivem's Server
 - 🌱 Currently helping on Atlanta Roleplay, FiveM's Server
 
-### Connect with me:
+### My socials!
 
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="My twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
@@ -28,7 +28,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages & Tools I use!
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][discord]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][discord]
