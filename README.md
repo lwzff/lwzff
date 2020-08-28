@@ -1,15 +1,17 @@
-### Hi there, I'm LWZ 👋
+### Welcome here, my name's lewizooo but you can call me lwz 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lewizooo?color=1DA1F2&label=FOLLOW%20%40LEWIZOOO&logo=Twitter&style=for-the-badge)](https://twitter.com/lewizooo)
-[![Website](https://img.shields.io/website?color=GREEN&down_color=RED&down_message=LWZ.FR&label=VISITE%20MON%20SITE&logo=Google%20Earth&logoColor=GREEN&style=for-the-badge&up_color=GREEN&up_message=LWZ.FR&url=https%3A%2F%2Flwz.fr)](https://lwz.fr)
+[![Website](https://img.shields.io/website?color=GREEN&down_color=RED&down_message=LWZ.FR&label=VISIT%20MY%20WEBSITE&logo=Google%20Earth&logoColor=GREEN&style=for-the-badge&up_color=GREEN&up_message=LWZ.FR&url=https%3A%2F%2Flwz.fr)](https://lwz.fr)
 
-## I'm a studient Developer !
+## I'm an independent developer!
 
-- 🔭 I’m currently working on a rFw Framework for FiveM!
-- 🌱 I’m currently learning C# / JAVA / JS 🤣
+- 🔭 Currently working on Projet X, Roleplay Fivem's Server
+- 🌱 Currently helping on Atlanta Roleplay, FiveM's Server
+
 ### Connect with me:
 
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="My twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
 
@@ -59,4 +61,8 @@
 
 ---
 
-[discord]: https://discord.gg/CzEm8sP
+[discord]: https://discord.gg/gRyTNz4
+[website]: https://lwz.fr/
+[twitch]: https://twitch.tv/lewizooo
+[youtube]: https//youtube.com/lewizooo
+[twitter]: https://twitter.com/lewizooo
