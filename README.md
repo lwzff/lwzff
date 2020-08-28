@@ -12,6 +12,9 @@
 
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="My twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="My youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="My twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="My website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/web.svg" />][website]
 
 <br />
 
@@ -24,16 +27,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubylium)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Latest activity 👋
-
-<br />
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com//iTexZoz/RageUI/issues/63) in [iTexZoz/RageUI](https://github.com//iTexZoz/RageUI)
-2. 🎉 Merged PR [#4](https://github.com//Rubylium/rFw/pull/4) in [Rubylium/rFw](https://github.com//Rubylium/rFw)
-3. 🎉 Merged PR [#5](https://github.com//Rubylium/rFw/pull/5) in [Rubylium/rFw](https://github.com//Rubylium/rFw)
-4. 🎉 Merged PR [#3](https://github.com//Rubylium/rFw/pull/3) in [Rubylium/rFw](https://github.com//Rubylium/rFw)
-<!--END_SECTION:activity-->
-
 
 <br />
 
