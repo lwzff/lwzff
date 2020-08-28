@@ -14,19 +14,17 @@
 [<img align="left" alt="My twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="My youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="My twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="My website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />][website]
+[<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
-### My Stats !
+### My stats!
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rubylium&count_private=true&show_icons=true?theme=buefy)
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubylium)](https://github.com/anuraghazra/github-readme-stats)
-
-### Latest activity 👋
 
 <br />
 
