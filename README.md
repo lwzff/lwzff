@@ -5,8 +5,8 @@
 
 ## I'm an independent developer!
 
-- 🔭 Currently working on Projet X, Roleplay Fivem's Server
-- 🌱 Currently helping on Atlanta Roleplay, FiveM's Server
+- 🔭 Currently working on a KOTH, based on FiveM.
+- 🌱 Ended project "Atlanta Roleplay", a FiveM RP server.
 
 ### My socials!
 
