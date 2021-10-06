@@ -5,7 +5,7 @@
 
 ## I'm an independent developer!
 
-- 🔭 Currently working on a KOTH, based on FiveM.
+- 🔭 Ended on KOTH EU.
 - 🌱 Ended project "Atlanta Roleplay", a FiveM RP server.
 
 ### My socials!
