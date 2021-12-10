@@ -1,6 +1,6 @@
-### Welcome here, my name's lewizooo but you can call me lwz 👋
+### Welcome here, my name is lwz 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/lewizooo?color=1DA1F2&label=FOLLOW%20%40LEWIZOOO&logo=Twitter&style=for-the-badge)](https://twitter.com/lewizooo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lwzdev?color=1DA1F2&label=FOLLOW%20%40LWZ&logo=Twitter&style=for-the-badge)](https://twitter.com/lwzdev)
 [![Website](https://img.shields.io/website?color=GREEN&down_color=RED&down_message=LWZ.FR&label=VISIT%20MY%20WEBSITE&logo=Google%20Earth&logoColor=GREEN&style=for-the-badge&up_color=GREEN&up_message=LWZ.FR&url=https%3A%2F%2Flwz.fr)](https://lwz.fr)
 
 ## I'm an independent developer!
