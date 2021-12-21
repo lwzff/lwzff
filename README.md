@@ -20,10 +20,10 @@
 ### My stats!
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lewizooo&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lwzdev&count_private=true&show_icons=true?theme=buefy)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewizooo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwzdev)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
