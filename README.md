@@ -20,10 +20,10 @@
 ### My stats!
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lwzdev&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lwzff&count_private=true&show_icons=true?theme=buefy)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwzdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwzff)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
@@ -52,7 +52,7 @@
 ---
 
 [discord]: https://discord.gg/gRyTNz4
-[website]: https://lwz.fr/
+[website]: https://athr.fr/
 [twitch]: https://twitch.tv/lewizooo
 [youtube]: https//youtube.com/lewizooo
-[twitter]: https://twitter.com/lewizooo
+[twitter]: https://twitter.com/lwzdev
