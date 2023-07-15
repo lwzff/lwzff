@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/lwzff" target="blank"><img src="https://img.shields.io/twitter/follow/lwzff?logo=twitter&style=for-the-badge" alt="lwzff" /></a> </p>
 
+- 🔭 I’m currently working on **many projects**
+
 - 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://www.athr.fr/](https://www.athr.fr/)
