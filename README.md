@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://www.athr.fr/](https://www.athr.fr/)
+- 👨‍💻 All of my projects are available at [https://www.athr.fr/](https://www.lwz.app/)
 
-- 📫 How to reach me **contact@athr.fr**
+- 📫 How to reach me **contact@lwz.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lwzff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lwzff" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lewizooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lewizooo" height="30" width="40" /></a>
-<a href="https://discord.gg/doliprane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="doliprane" height="30" width="40" /></a>
+<a href="https://discord.gg/lwzff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="doliprane" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
