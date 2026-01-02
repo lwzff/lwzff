@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://www.athr.fr/](https://www.lwz.app/)
+- 👨‍💻 All of my projects are available at [https://lwz.app/](https://lwz.app/)
 
 - 📫 How to reach me **contact@lwz.app**
 
